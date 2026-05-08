@@ -1,9 +1,9 @@
 some of the entitys that exist and are ranked based off rank going from like tier 99 to 1
 
 template used here:
-[weapons](/weapons)
-[powers](/powers)
-[passives](/passives)
+1. [weapons](/weapons)
+2. [powers](/powers)
+3. [passives](/passives)
 
 # ARCHITECTS
 the creators of the universe
@@ -14,17 +14,27 @@ the creators of the universe
 3. [omniscience](/passives)
 
 - jhyron, architect of potential
+
+
 - kalto, architect of duality
+
+
 - ziron, architect of emergence
+
+
 - creator, architect of the absolute
 
 
 # GODS
 the very existance of concepts made by the architect
 
-apex, god of limits
+- apex, god of limits
+1. [scythe that tests your limits](/weapons)
+2. [limit breaker](/powers)
+3. [limit breaker](/passives)
 
-archmage, god of power
+
+- archmage, god of power
 
 bang bang, god of [/")§$(/")§(&)"(&%=)"§&"§%]
 
