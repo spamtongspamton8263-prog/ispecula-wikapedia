@@ -1,22 +1,22 @@
 some of the entitys that exist and are ranked based off rank going from like tier 99 to 1
 
 template used here:
-[weapons]
-[powers]
-[passives]
+[weapons](/weapons)
+[powers](/powers)
+[passives](/passives)
 
 # ARCHITECTS
 the creators of the universe
 
-alsbnkfjzgfnv, architect of logic
+- alsbnkfjzgfnv, architect of logic
+["the impossible dream"](/weapons)
+[approval of everything](/powers)
+[omniscience](/passives)
 
-jhyron, architect of potential
-
-kalto, architect of duality
-
-ziron, architect of emergence
-
-creator, architect of the absolute
+- jhyron, architect of potential
+- kalto, architect of duality
+- ziron, architect of emergence
+- creator, architect of the absolute
 
 
 # GODS
