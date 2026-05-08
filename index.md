@@ -4,10 +4,10 @@ there will be semi-logic in the universe, do not ask how one thing could work
 
 heres a navigation of things ;)
 
-- [WEAPONS](/weapons)
-- [ENTITYS](/entitys)
-- [ITEMS](/items)
-- [PASSIVES](/passives)
-- [LOCATIONS](/locations)
+- [WEAPONS](/weapons.md)
+- [ENTITYS](/entitys.md)
+- [ITEMS](/items.md)
+- [PASSIVES](/passives.md)
+- [LOCATIONS](/locations.md)
 
 just note im just starting out and this is bare bones rn so more can be expected
