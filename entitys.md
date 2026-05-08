@@ -8,33 +8,33 @@ template used here:
 # ARCHITECTS
 the creators of the universe
 
-- alsbnkfjzgfnv, architect of logic
+alsbnkfjzgfnv, architect of logic
 1. ["the impossible dream"](/weapons)
 2. [approval of everything](/powers)
 3. [omniscience](/passives)
 
-- jhyron, architect of potential
+jhyron, architect of potential
 
 
-- kalto, architect of duality
+kalto, architect of duality
 
 
-- ziron, architect of emergence
+ziron, architect of emergence
 
 
-- creator, architect of the absolute
+creator, architect of the absolute
 
 
 # GODS
 the very existance of concepts made by the architect
 
-- apex, god of limits
+apex, god of limits
 1. [scythe that tests your limits](/weapons)
 2. [limit breaker](/powers)
 3. [limit breaker](/passives)
 
 
-- archmage, god of power
+ archmage, god of power
 
 bang bang, god of [/")§$(/")§(&)"(&%=)"§&"§%]
 
