@@ -9,9 +9,9 @@ template used here:
 the creators of the universe
 
 - alsbnkfjzgfnv, architect of logic
-- ["the impossible dream"](/weapons)
-- [approval of everything](/powers)
-- [omniscience](/passives)
+1. ["the impossible dream"](/weapons)
+2. [approval of everything](/powers)
+3. [omniscience](/passives)
 
 - jhyron, architect of potential
 - kalto, architect of duality
