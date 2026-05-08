@@ -1,17 +1,17 @@
 some of the entitys that exist and are ranked based off rank going from like tier 99 to 1
 
 template used here:
-1. [weapons](/weapons)
-2. [powers](/powers)
-3. [passives](/passives)
+1. [weapons](/weapons.md)
+2. [powers](/powers.md)
+3. [passives](/passives.md)
 
 # ARCHITECTS
 the creators of the universe
 
 alsbnkfjzgfnv, architect of logic
-1. ["the impossible dream"](/weapons)
-2. [approval of everything](/powers)
-3. [omniscience](/passives)
+1. ["the impossible dream"](/weapons.md)
+2. [approval of everything](/powers.md)
+3. [omniscience](/passives.md)
 
 jhyron, architect of potential
 
