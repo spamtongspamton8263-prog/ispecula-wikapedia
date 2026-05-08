@@ -10,7 +10,7 @@ weapons from the ispecu-verse will be listed here, including:
 - appearance: a standard axe used from fire fighters
 - effect: no special effect, just a axe
 
-## SWORD OF DESITNY
+## SWORD OF DESTINY
 - wielder: nightfall
 - appearance: a brown handled katana where the blade is purple and the 
 - effect: you can command your enemy by doing slashes, the more slashes the more effective commands you can use.
