@@ -1,4 +1,5 @@
 [go back](/index.md)
+
 some of the entitys that exist and are ranked based off rank going from like tier 99 to 1
 
 template used here:
