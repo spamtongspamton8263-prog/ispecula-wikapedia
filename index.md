@@ -7,3 +7,5 @@ heres a navigation of things ;)
 [WEAPONS](/weapons)
 [ENTITYS](/entitys)
 [ITEMS](/items)
+
+just note im just starting out and this is bare bones rn so more can be expected
