@@ -43,14 +43,14 @@ weapons from the ispecu-verse will be listed here, including:
 ## LUMINOSITY
 - wielder: nightfall
 - appearance: a sword made out of pure light
-- effect: its flash can match ispecula's  white at 70% output.  once erased a universe
+- effect: its AOE can match ispecula's  white at 70% output.  once erased a universe
 
 ## LIGHT POLE
 - wielder: excelsia
-- appearance: a literaal light pole from the streets of philidelphia
+- appearance: a literaal light pole from the streets of philadelphia
 - effect: no effects
 
 ## INFO PAPER
 - wielder: "me"
-- appearance: a pack of paper stamped togheter by one stapler
+- appearance: a pack of paper stamped together by one stapler
 - effect: can give info on anyone and can be rewritten to change said person. only "me" was able to use it
