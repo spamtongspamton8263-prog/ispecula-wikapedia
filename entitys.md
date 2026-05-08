@@ -150,12 +150,12 @@ ispecu-tangle
 the colossal
 
 # OUTSIDERS
-nightfall
-fallen night
-hakari (jjk)
-angela (library of ruina)
-yi sang (limbus company)
-the chicken of doom and despair
+- nightfall
+- fallen night
+- hakari (jjk)
+- angela (library of ruina)
+- yi sang (limbus company)
+- the chicken of doom and despair
 
 
 # LIMBO GUYS
