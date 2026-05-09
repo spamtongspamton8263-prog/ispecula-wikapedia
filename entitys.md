@@ -125,7 +125,6 @@ angela, origin of sirius
 
 赤い満月, origin of symphony
 
-
 ton618, origin of pot
 
 bermuda, origin of apex
@@ -156,20 +155,44 @@ hakari, origin of sol
 
 # CREATIONS
 ispecula
+
+
 isbecula
+
+
 doodly
+
+
 ispecu-tangle
+
+
 the colossal
 
+
+
 # OUTSIDERS
-- nightfall
-- fallen night
-- hakari (jjk)
-- angela (library of ruina)
-- yi sang (limbus company)
-- the chicken of doom and despair
+nightfall
+
+
+fallen night
+
+
+hakari (jjk)
+
+
+angela (library of ruina)
+
+
+yi sang (limbus company)
+
+
+the chicken of doom and despair
 
 
 # LIMBO GUYS
 Enightfall
+
+
 unholy insurgency
+
+
