@@ -423,10 +423,10 @@ Rejected parts of gods that became separate entities. Each shard embodies what t
 - weapon: a giant modified knife
 
 **doodly**
-- personality: [unknown]
-- appearance: [unknown]
-- quote: [unknown]
-- weapon: h
+- personality: chill, sometimes just spews random information, kinda brainrotted
+- appearance: same as fallen night, unexplainable
+- quote: "did you know snails have like 65k to 70k teeth's?"
+- weapon: saw hands
 
 **ispecu-tangle**
 - personality: [unknown]
