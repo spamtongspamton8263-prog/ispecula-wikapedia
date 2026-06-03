@@ -262,223 +262,151 @@ template used here:
 
 # ORIGIN SHARDS
 
-*Rejected parts of gods that became separate entities. Each shard embodies what the god rejected. Before activation, they appear as 8‑sided floating crystals. When activated, they unfold into R6 Roblox player models.*
+Rejected parts of gods that became separate entities. Each shard embodies what the god rejected. Before activation, they appear as 8‑sided floating crystals. When activated, they unfold into R6 Roblox player models.
 
 **bermuda (origin of apex)**
 - personality: Rejected limits.
 - appearance: [crystal form, then R6 Roblox model]
-- quote: [unknown]
-- weapon: h
 
 **ruina (origin of archmage)**
 - personality: Rejected sorrow and lament.
 - appearance: [crystal form, then R6 Roblox model]
-- quote: [unknown]
-- weapon: h
 
 **silhouette (origin of bang bang)**
 - personality: Rejected existence.
 - appearance: [crystal form, then R6 Roblox model]
-- quote: [unknown]
-- weapon: h
 
 **archeology on permafrost (origin of black blizzard)**
 - personality: Rejected happiness.
 - appearance: [crystal form, then R6 Roblox model]
-- quote: [unknown]
-- weapon: h
 
 **hall (origin of breakthrough)**
 - personality: Rejected optimism.
 - appearance: [crystal form, then R6 Roblox model]
-- quote: [unknown]
-- weapon: h
 
 **demonic grey kitten (origin of chromatic)**
 - personality: Rejected monochromatic.
 - appearance: [crystal form, then R6 Roblox model]
-- quote: [unknown]
-- weapon: h
 
 **clock work (origin of chrono sentinel)**
 - personality: Rejected wakefulness.
 - appearance: [crystal form, then R6 Roblox model]
-- quote: [unknown]
-- weapon: h
 
 **undone (origin of crystallized)**
 - personality: Rejected unformation.
 - appearance: [crystal form, then R6 Roblox model]
-- quote: [unknown]
-- weapon: h
 
 **technology trance (origin of delta)**
 - personality: Rejected RAM prices (joke about AI demand).
 - appearance: [crystal form, then R6 Roblox model]
-- quote: [unknown]
-- weapon: h
 
 **sakupen circles (origin of divinus)**
 - personality: Rejected unjustified sentences.
 - appearance: [crystal form, then R6 Roblox model]
-- quote: [unknown]
-- weapon: h
 
 **assumptions / THE CHICKEN (origin of endurance)**
 - personality: Rejected their own face. Rare 1/2540 chance of being THE CHICKEN.
 - appearance: [crystal form, then R6 Roblox model]
-- quote: [unknown]
-- weapon: h
 
 **theory of everything (origin of genesis)**
 - personality: Rejected their own mentality.
 - appearance: [crystal form, then R6 Roblox model]
-- quote: [unknown]
-- weapon: h
 
 **crucified (origin of G.O.D.)**
 - personality: Rejected vocal cords.
 - appearance: [crystal form, then R6 Roblox model]
-- quote: [unknown]
-- weapon: h
 
 **wrathful memory (origin of hatred)**
 - personality: Rejected Clarity (third side; seeing futility of hatred).
 - appearance: [crystal form, then R6 Roblox model]
-- quote: [unknown]
-- weapon: h
 
 **twisted garden (origin of hatred)**
 - personality: Rejected desire to love and heal.
 - appearance: [crystal form, then R6 Roblox model]
-- quote: [unknown]
-- weapon: h
 
 **limbo (origin of isolation)**
 - personality: Rejected social life.
 - appearance: [crystal form, then R6 Roblox model]
-- quote: [unknown]
-- weapon: h
 
 **yi sang (origin of lamenthyr)**
 - personality: Rejected emotions.
 - appearance: [crystal form, then R6 Roblox model]
-- quote: [unknown]
-- weapon: h
 
 **hkmori (origin of luminosity)**
 - personality: Rejected negative emotions.
 - appearance: [crystal form, then R6 Roblox model]
-- quote: [unknown]
-- weapon: h
 
 **euphoria (origin of lust)**
 - personality: Rejected loneliness.
 - appearance: [crystal form, then R6 Roblox model]
-- quote: [unknown]
-- weapon: h
 
 **red sun (origin of mayhem)**
 - personality: Rejected social anxiety.
 - appearance: [crystal form, then R6 Roblox model]
-- quote: [unknown]
-- weapon: h
 
 **"you" (origin of "me")**
 - personality: Rejected negative emotions.
 - appearance: [crystal form, then R6 Roblox model]
-- quote: [unknown]
-- weapon: h
 
 **yharon (origin of meteoric impact)**
 - personality: Rejected peace.
 - appearance: [crystal form, then R6 Roblox model]
-- quote: [unknown]
-- weapon: h
 
 **lastmorn (origin of monarch)**
 - personality: Rejected status.
 - appearance: [crystal form, then R6 Roblox model]
-- quote: [unknown]
-- weapon: h
 
 **my time (origin of nuclear-star)**
 - personality: Rejected their own concept (dormant).
 - appearance: [crystal form, then R6 Roblox model]
-- quote: [unknown]
-- weapon: h
 
 **pandemonium (origin of oblivion)**
 - personality: Rejected the active parts of nihilism ("so I'll make my own meaning" and "so I'll destroy everything").
 - appearance: [crystal form, then R6 Roblox model]
-- quote: [unknown]
-- weapon: h
 
 **explorers (origin of pot)**
 - personality: Rejected vision.
 - appearance: [crystal form, then R6 Roblox model]
-- quote: [unknown]
-- weapon: h
 
 **congregation (origin of prime)**
 - personality: Rejected their views on reality itself.
 - appearance: [crystal form, then R6 Roblox model]
-- quote: [unknown]
-- weapon: h
 
 **abyssal hunter (origin of sharkyn)**
 - personality: Rejected vocal cords.
 - appearance: [crystal form, then R6 Roblox model]
-- quote: [unknown]
-- weapon: h
 
 **angela (origin of sirius)**
 - personality: Rejected stoicness and seriousness.
 - appearance: [crystal form, then R6 Roblox model]
-- quote: [unknown]
-- weapon: h
 
 **hakari (origin of sol)**
 - personality: Rejected mentality.
 - appearance: [crystal form, then R6 Roblox model]
-- quote: [unknown]
-- weapon: h
 
 **blade of justice (origin of sonic blasting)**
 - personality: Rejected slowness.
 - appearance: [crystal form, then R6 Roblox model]
-- quote: [unknown]
-- weapon: h
 
 **black lotus (origin of starscourge)**
 - personality: Rejected meaningless killing.
 - appearance: [crystal form, then R6 Roblox model]
-- quote: [unknown]
-- weapon: h
 
 **chaos maid (origin of supernova)**
 - personality: Rejected absence of heat.
 - appearance: [crystal form, then R6 Roblox model]
-- quote: [unknown]
-- weapon: h
 
 **red full moon / 赤い満月 (origin of symphony)**
 - personality: Rejected erasure. Male, red/black.
 - appearance: [crystal form, then R6 Roblox model]
-- quote: [unknown]
-- weapon: h
 
 **zephyrs (origin of thermodynamix)**
 - personality: Rejected sanity.
 - appearance: [crystal form, then R6 Roblox model]
-- quote: [unknown]
-- weapon: h
 
 **zyloden, unstable eyes (origin of V.O.I.D.)**
 - personality: Rejected pleasure.
 - appearance: [crystal form, then R6 Roblox model]
-- quote: [unknown]
-- weapon: h
 
 # CREATIONS
 coming back soon
