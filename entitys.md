@@ -409,16 +409,67 @@ Rejected parts of gods that became separate entities. Each shard embodies what t
 - appearance: [crystal form, then R6 Roblox model]
 
 # CREATIONS
-coming back soon
+
+**ispecula**
+- personality: Chaotic, playful, bouncy. Has passive adaptation (learning) and Adaptation Mode (resistance). Can stop time and use World Cutting Slash.
+- appearance: White ball with an eyepatch. 7 modes (Time, Fire, Thunder, Ice, Space, Water, Base).
+- quote: "Love is in the air? nah. BLACK IS IN THE AIR."
+- weapon: per mode (Timestop, WCS/UCS, Didn't Strike Me Tho, Absolute Zero, 100% Output Black, The Point of No Return, Flow State)
+
+**isbecula**
+- personality: ispecula
+- appearance: ispecula but without the eyepatch, a mouth and stick legs
+- quote: "hey ispecula, wanna see this trick?"
+- weapon: a giant modified knife
+
+**doodly**
+- personality: [unknown]
+- appearance: [unknown]
+- quote: [unknown]
+- weapon: h
+
+**ispecu-tangle**
+- personality: [unknown]
+- appearance: [unknown]
+- quote: [unknown]
+- weapon: h
+
+**the colossal**
+- personality: [unknown]
+- appearance: [unknown]
+- quote: [unknown]
+- weapon: h
 
 # OUTSIDERS
-coming back soon
+
+**nightfall**
+- personality: Has Dnightfall (trauma slime) which mentally slows him. Wields multiple weapons. Has ice/nature magic and rift portals.
+- appearance: Male. Missing one eye, eyepatch, crystal deer horns, floating crystal above head, heavy arctic armor, white haori, black gloves and boots that reach the knees.
+- quote: "We are not friends. I tolerate you."
+- weapon: Sword of Destiny, Faith, Outlaw, Corruption, Impeached, Sovereignty
+
+**fallen night**
+- personality: Speaks in short, sharp sentences. Caused the Halloween incident: killed children in costumes thinking they were monsters, resulting in over 750 deaths. Took full responsibility afterward. Has eyebags from crying for days. Does not mourn openly anymore. Acts detached, efficient, sometimes ruthless. Killed an entire campsite of stars to vent anger. Has a strained relationship with Nightfall. Not a god. No domain. Just a man with scythes, guilt, and a lot of baggage.
+- appearance: maybe one day i can draw and explain his drip
+- quote: "When you have nothing then solemn, lament and death will come."
+- weapon: Scythe of Free Will,
+
+**the chicken of doom and despair**
+- personality: [unknown]
+- appearance: [unknown]
+- quote: [unknown]
+- weapon: h
 
 # LIMBO GUYS
-Enightfall will be back shortly
+
+**enightfall**
+- personality: A Nightfall from an alternate timeline (tyrannical version). Now a Limbo guy. Partner of Eden. Spammed "me" with 3,000 messages in one hour.
+- appearance: Male. SSS+.
+- quote: "I HOPE YOU LIKE BEING DEBUFFED. hehehe..."
+- weapon: Domain: Nightfall's Tyrannic Death
 
 **unholy insurgency**
-- personality: opposite of eden
-- appearance: a yellow uneven blob with delta's sigil as its face, with 3 triangles as "wings" on both sides and has 4 triangles as legs
+- personality: Opposite of Eden.
+- appearance: A yellow uneven blob with delta's sigil as its face, with 3 triangles as "wings" on both sides and has 4 triangles as legs.
 - quote: "i am about to blooowwww"
 - weapon: no weapon
