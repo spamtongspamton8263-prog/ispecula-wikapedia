@@ -6,8 +6,7 @@ heres a navigation of things ;)
 
 - [WEAPONS](/weapons.md)
 - [ENTITYS](/entitys.md)
-- [ITEMS](/items.md)
-- [PASSIVES](/passives.md)
-- [LOCATIONS](/locations.md)
+- [ITEMS](/items.md) [coming soon]
+- [LOCATIONS](/locations.md) [coming soon]
 
 just note im just starting out and this is bare bones rn so more can be expected
