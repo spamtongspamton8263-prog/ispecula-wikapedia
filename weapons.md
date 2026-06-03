@@ -4,11 +4,13 @@ weapons from the ispecu-verse will be listed here, including:
 - what they can do
 - maybe a description on how they look
 - who wield them
+- the type (for how ispecula's adaptation see's them)
 
 ## FIRE AXE
 - wielder: nightfall
 - appearance: a standard axe used from fire fighters
 - effect: no special effect, just a axe
+- type: blunt/slash
 
 ## SWORD OF DESTINY
 - wielder: nightfall
@@ -23,7 +25,7 @@ weapons from the ispecu-verse will be listed here, including:
 ## OUTLAW
 - wielder: nightfall
 - appearance: a blue mauser M1889 that has golden engravings all over the rifle
-- effect: it can weaken any type of magic if hit, including KI you goku stans
+- effect: it can weaken any type of magic if hit, including KI. you goku stans
 
 ## CORRUPTION
 - wielder: nightfall
@@ -42,7 +44,7 @@ weapons from the ispecu-verse will be listed here, including:
 
 ## LUMINOSITY
 - wielder: nightfall
-- appearance: a sword made out of pure light
+- appearance: a sword made out of diamond shaped crystals made out of light
 - effect: its AOE can match ispecula's  white at 70% output.  once erased a universe
 
 ## LIGHT POLE
@@ -54,3 +56,9 @@ weapons from the ispecu-verse will be listed here, including:
 - wielder: "me"
 - appearance: a pack of paper stamped together by one stapler
 - effect: can give info on anyone and can be rewritten to change said person. only "me" was able to use it
+
+## the impossible dream
+## crystallization
+## limit breaking scythe
+## judgement is served
+## something in the near future :)
