@@ -259,6 +259,13 @@ template used here:
 - quote: "my story is nowhere, unknown to all. i am death and life. darkness and light. what maketh thee hesitate? i work miracles here. a new world shall come"
 - weapon: his body
 
+**sequence breaker, god of sound**
+
+- personality: Calm, soft-spoken, used to the weight of hearing everything. Loves music. Speaks in short, direct sentences. Unshaken by chaos.
+- appearance: da capo e.g.o suit, long white hair to elbows, face covered by a black box (reason TBD).
+- quote: "let the orchestra begin. movement 1: moonlight sonata."
+- weapon: da capo
+
 
 # ORIGIN SHARDS
 
@@ -406,6 +413,10 @@ Rejected parts of gods that became separate entities. Each shard embodies what t
 
 **zyloden, unstable eyes (origin of V.O.I.D.)**
 - personality: Rejected pleasure.
+- appearance: [crystal form, then R6 Roblox model]
+
+**sonata, the orchestrated (origin of sequence breaker)**
+- personality: rejected silence
 - appearance: [crystal form, then R6 Roblox model]
 
 # CREATIONS
