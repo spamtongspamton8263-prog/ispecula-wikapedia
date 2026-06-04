@@ -116,7 +116,7 @@ template used here:
 
 **genesis, god of origin (dormant)**
 - personality: Patient, waiting, gives agency to mortals. Created by Alsbnk to kickstart the Void. Wakes up sometimes for about an hour, then goes back to sleep. Best friends with Crystallized.
-- appearance: Female. Floating hourglass of stars.
+- appearance: Female. White skin. Black knee-high boots, black coat, white trench coat over it. Black bandages wrapped around her arms. A black ring floats around her head, with a black-and-white crown resting above it.
 - quote: "I'm defining the beginning and end of the world, the middle is up to you to shape."
 - weapon: no weapon
 
