@@ -262,7 +262,7 @@ template used here:
 **sequence breaker, god of sound**
 
 - personality: Calm, soft-spoken, used to the weight of hearing everything. Loves music. Speaks in short, direct sentences. Unshaken by chaos.
-- appearance: da capo e.g.o suit, long white hair to elbows, face covered by a black box (reason TBD).
+- appearance: A minimalist white formal suit with oversized sleeves, angular tailoring, and a bold black chest insignia., long white hair to elbows, face covered by a black box.
 - quote: "let the orchestra begin. movement 1: moonlight sonata."
 - weapon: da capo
 
