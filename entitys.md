@@ -263,7 +263,7 @@ template used here:
 
 - personality: Calm, soft-spoken, used to the weight of hearing everything. Loves music. Speaks in short, direct sentences. Unshaken by chaos.
 - appearance: A minimalist white formal suit with oversized sleeves, angular tailoring, and a bold black chest insignia., long white hair to elbows, face covered by a black box.
-- quote: "let the orchestra begin. movement 1: moonlight sonata."
+- quote: "let the orchestra begin. movement 1: Gymnopédie No. 1."
 - weapon: da capo
 
 
