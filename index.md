@@ -6,6 +6,7 @@ heres a navigation of things ;)
 
 - [WEAPONS](/weapons.md)
 - [ENTITYS](/entitys.md)
+- [RANDOM INFO's](/give me a second)
 - [ITEMS](/items.md) [coming soon]
 - [LOCATIONS](/locations.md) [coming soon]
 
