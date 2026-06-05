@@ -1,3 +1,6 @@
+[go back](/index.md)
+random info i dont know where to put will appear here
+
 ## **arcanic energy**
 Arcanic Energy is a fundamental, high-level force in the Ispecula-verse, distinct from raw magical or physical power. It is visualized as arcane sigils, geometric shapes, or symbols that appear when the power is in use. It is described as extremely rare and difficult to manage, often at the cost of the user's mental well-being.
 
