@@ -179,7 +179,7 @@ template used here:
 - personality: Brooding, bitter, dramatic. In Exile, constantly blasted by Luminosity. Tried to overthrow Creator. Lost his ultimate because his domain became too unstable.
 - appearance: Male.
 - quote: "No-" (cut off by Luminosity's Brilliance)
-- weapon: impeached
+- weapon: a knife, just a regular kitchen knife
 
 **NUCLEAR-STAR, god of nuclear weaponry (dormant)**
 - personality: Dormant because no nuclear weapons exist in the verse. Speaks in leetspeak.
