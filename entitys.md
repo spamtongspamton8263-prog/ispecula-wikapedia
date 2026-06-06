@@ -471,6 +471,13 @@ Rejected parts of gods that became separate entities. Each shard embodies what t
 - quote: [unknown]
 - weapon: h
 
+THE SLEDGE KING — MAXWELL VON
+
+· personality: No tragedy. Self-crowned. Fights purely for the love of the game. Laughs when he almost dies. Will compliment your dodge before shooting you. Nightfall brought him here because he "looked cool" — and he just shrugged and went along with it. No loyalty asked. No loyalty offered. It just works.
+· appearance: done later
+· quote: "pff, you using ki already goku?? nah 5 shots later no more ki for you"
+· weapon: ۞ | excision, Outlaw (Replica)
+
 # LIMBO GUYS
 
 **enightfall**
