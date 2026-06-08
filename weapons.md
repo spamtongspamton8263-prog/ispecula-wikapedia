@@ -57,6 +57,11 @@ weapons from the ispecu-verse will be listed here, including:
 - appearance: a pack of paper stamped together by one stapler
 - effect: can give info on anyone and can be rewritten to change said person. only "me" was able to use it
 
+##THE EYEPATCH
+- Wielder: Ispecula
+- Appearance: A dark blue eyepatch with a light blue clock symbol. When Ispecula switches modes, the symbol on the eyepatch changes to represent the active mode. The symbols are not just decorative — they pulse, shift, and sometimes distort when Ispecula is pushed to their limits. In Adaptation Mode, the eyepatch shatters completely, revealing a cycling, multicolored eye.
+- Effect: The eyepatch allows Ispecula to switch between seven distinct modes, each granting a unique set of abilities. Only one mode can be active at a time. Switching is instant and can be done mid‑action, but there is a micro‑cooldown (a fraction of a second) between switches to prevent spam. The eyepatch is also the conduit for Ispecula's Adaptation Mode (a separate active ability that shatters the eyepatch and grants access to all modes simultaneously for a limited time).
+[check [infoonthingsidkwheretoput.md](/infoonthingsidkwheretoput.md) for info on the modes]
 ## the impossible dream
 ## crystallization
 ## limit breaking scythe
