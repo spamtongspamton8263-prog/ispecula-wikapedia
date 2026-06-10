@@ -20,7 +20,7 @@ template used here:
 - personality: Overworked, exhausted, logical but tired. Handles requests first; if he takes longer than a minute, they escalate to Prime. Friends with Jhyron, who tells him to take breaks.
 - appearance: Silver arcanic energy. Often found at a desk with endless paperwork.
 - quote: "How many more paperwork…?"
-- weapon: stamp of logic
+- weapon: the impossible dream
 
 **kalto, architect of duality**
 - personality: Observed the balance shift when Mayhem went quiet. Notices when the world feels wrong. Speaks in dualities. Connected to Ziron by a line in the hierarchy.
@@ -46,7 +46,7 @@ template used here:
 - personality: Calm, analytical, speaks of boundaries.
 - appearance: Male. Black and green color scheme. Two halos, green wings, arrow‑tipped rail.
 - quote: "Your limits haven't been reached Ispecula. you still have alot to know about.."
-- weapon: scythe that breaks limits
+- weapon: limit breaking scythe
 
 **archmage, god of power**
 - personality: Warm, storytelling, loves recounting old events.
@@ -440,16 +440,16 @@ Rejected parts of gods that became separate entities. Each shard embodies what t
 - weapon: saw hands
 
 **ispecu-tangle**
-- personality: [unknown]
-- appearance: [unknown]
-- quote: [unknown]
-- weapon: h
+- personality: idk, rewrite one day but not this month
+- appearance: idk, rewrite one day but not this month
+- quote: idk, rewrite one day but not this month
+- weapon: idk, rewrite one day but not this month
 
 **the colossal**
-- personality: [unknown]
-- appearance: [unknown]
-- quote: [unknown]
-- weapon: h
+- personality: nothing
+- appearance: this is a mech ispecula controls lmao
+- quote: "I AM ISPECULA AND IM ABOUT TO CAST MIDORIS ON YOUR ASSSS RAHHHHHHHHHHH!!!!!!!!!!!!!!!!!!!!!"
+- weapon: the laser of doom and despair
 
 # OUTSIDERS
 
@@ -466,17 +466,17 @@ Rejected parts of gods that became separate entities. Each shard embodies what t
 - weapon: Scythe of Free Will,
 
 **the chicken of doom and despair**
-- personality: [unknown]
-- appearance: [unknown]
-- quote: [unknown]
-- weapon: h
+- personality: why did the chicken cross the road?
+- appearance: a gigantic 3d low quality textured and low poly model of a chicken
+- quote: "B                        O                                              O                               K"
+- weapon: B E A K
 
 THE SLEDGE KING — MAXWELL VON
 
-· personality: No tragedy. Self-crowned. Fights purely for the love of the game. Laughs when he almost dies. Will compliment your dodge before shooting you. Nightfall brought him here because he "looked cool" — and he just shrugged and went along with it. No loyalty asked. No loyalty offered. It just works.
-· appearance: done later
-· quote: "pff, you using ki already goku?? nah 5 shots later no more ki for you"
-· weapon: ۞ | excision, Outlaw (Replica)
+- personality: No tragedy. Self-crowned. Fights purely for the love of the game. Laughs when he almost dies. Will compliment your dodge before shooting you. Nightfall brought him here because he "looked cool" — and he just shrugged and went along with it. No loyalty asked. No loyalty offered. It just works.
+- appearance: done later
+- quote: "pff, you using ki already goku?? nah 5 shots later no more ki for you"
+- weapon: ۞ | excision, Outlaw (Replica), knuckle blaster
 
 # LIMBO GUYS
 
@@ -484,7 +484,7 @@ THE SLEDGE KING — MAXWELL VON
 - personality: A Nightfall from an alternate timeline (tyrannical version). Now a Limbo guy. Partner of Eden. Spammed "me" with 3,000 messages in one hour.
 - appearance: Male. SSS+.
 - quote: "I HOPE YOU LIKE BEING DEBUFFED. hehehe..."
-- weapon: Domain: Nightfall's Tyrannic Death
+- weapon: no weapon
 
 **unholy insurgency**
 - personality: Opposite of Eden.
