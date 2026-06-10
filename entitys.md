@@ -14,7 +14,7 @@ template used here:
 - personality: Silent, distant, rarely appears. Uses the 🫩 emoji. Made everything and everyone. The only being capable of surviving total erasure events.
 - appearance: a black box
 - quote: "youre a dissapointment monarch."
-- weapon: h
+- weapon: no weapon
 
 **alsbnk, architect of logic**
 - personality: Overworked, exhausted, logical but tired. Handles requests first; if he takes longer than a minute, they escalate to Prime. Friends with Jhyron, who tells him to take breaks.
@@ -26,7 +26,7 @@ template used here:
 - personality: Observed the balance shift when Mayhem went quiet. Notices when the world feels wrong. Speaks in dualities. Connected to Ziron by a line in the hierarchy.
 - appearance: Dark purple and black arcanic energy.
 - quote: "I felt the balance of the world shift when Mayhem wasn't doing anything."
-- weapon: h
+- weapon: duality breaker
 
 **ziron, architect of emergence**
 - personality: Patient, musical, transformative. Broke a birdcage and became wings of shards.
@@ -46,7 +46,7 @@ template used here:
 - personality: Calm, analytical, speaks of boundaries.
 - appearance: Male. Black and green color scheme. Two halos, green wings, arrow‑tipped rail.
 - quote: "Your limits haven't been reached Ispecula. you still have alot to know about.."
-- weapon: limit raiser
+- weapon: scythe that breaks limits
 
 **archmage, god of power**
 - personality: Warm, storytelling, loves recounting old events.
