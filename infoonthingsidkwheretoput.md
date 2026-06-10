@@ -14,7 +14,7 @@ Arcanic Energy is not tied to physical bodies, making it effective against enemi
 
 ## EYEPATCH MODES IN DETAIL
 
-🔷 TIME MODE
+TIME MODE
 
 · Symbol: Dark blue clock
 · Abilities:
@@ -26,7 +26,7 @@ Arcanic Energy is not tied to physical bodies, making it effective against enemi
 
 ---
 
-🔥 FIRE MODE
+FIRE MODE
 
 · Symbol: Red flame
 · Abilities:
@@ -39,7 +39,7 @@ Arcanic Energy is not tied to physical bodies, making it effective against enemi
 
 ---
 
-⚡ THUNDER MODE
+THUNDER MODE
 
 · Symbol: Yellow lightning bolt
 · Abilities:
@@ -52,9 +52,9 @@ Arcanic Energy is not tied to physical bodies, making it effective against enemi
 
 ---
 
-❄️ ICE MODE
+ICE MODE
 
-· Symbol: Cyan snowflake
+· Symbol: 5 icicles
 · Abilities:
   · Ice Shards – Rapid, piercing projectiles that can freeze small areas.
   · Frost Armor – Encases Ispecula in a protective shell that reduces damage and freezes melee attackers.
@@ -65,7 +65,7 @@ Arcanic Energy is not tied to physical bodies, making it effective against enemi
 
 ---
 
-🪐 SPACE MODE
+ SPACE MODE
 
 · Symbol: Black hole with a white ring
 · Abilities:
@@ -84,7 +84,7 @@ Arcanic Energy is not tied to physical bodies, making it effective against enemi
 
 ---
 
-💧 WATER MODE
+ WATER MODE
 
 · Symbol: Blue water droplet
 · Abilities:
@@ -97,7 +97,7 @@ Arcanic Energy is not tied to physical bodies, making it effective against enemi
 
 ---
 
-👊 BASE MODE
+ BASE MODE
 
 · Symbol: White fist
 · Abilities:
@@ -110,7 +110,7 @@ Arcanic Energy is not tied to physical bodies, making it effective against enemi
 
 ---
 
-🔄 ADAPTATION MODE (Special)
+ ADAPTATION MODE (Special)
 
 · Not a standard mode; activated separately via the eyepatch.
 · Effect: The eyepatch shatters, revealing a cycling, multicolored eye. The ☸️ dharma wheel appears above Ispecula's head with a slight delay.
@@ -122,7 +122,50 @@ Arcanic Energy is not tied to physical bodies, making it effective against enemi
 
 ---
 
-Ispecula (touching their eyepatch, eyepatch clicking softly):
-"Love is in the air? nah. Mode switching is in the air. And it's got a 'clingding' sound. Lowkirkuenly."
+1. The Nature of Death & The No Death Logic
+- **True death is impossible.** A fundamental rule (a "Logic") written by "me" and enforced by the Architects prevents permanent death.
+- **Normal death results in respawn.** Beings who are "killed" simply return. This applies to gods, mortals, and everything in between.
+- **Consequences of the Logic:**
+    - **Fallen Night** respawns endlessly no matter how many times he dies, making his desire for permanent death impossible.
+    - **Bang Bang** is shattered into 80,000 fragments but is still considered "alive" by the Architects. Alsbnk is considering creating a new existential tier called "**both**" (dead and alive simultaneously) to categorize them.
+    - **The Logic is enforced bureaucratically.** "Me" writes Logics, Prime stamps them "APPROVED" (often spam-approving without review), and Alsbnk (Architect of Logic) processes the requests while exhausted.
 
-🎫🧇🍵💀✅
+2. The Architect & God Hierarchy
+- **Creator** (the silent black box) made the **Architects**, **Genesis**, and **"me"** .
+- **Architects** (Alsnbk, Kalto, Ziron, Jhyron) are above "me" and handle the fundamental operations of reality.
+- **"Me"** (god of creation) is the first god ever made, but is essentially overworked middle management. He writes Logics but cannot implement them himself; he relies on Prime and Alsbnk.
+- **Gods** (G.O.D., Chrono, etc.) appeared after "me" was created.
+- **The system runs on exhaustion and paperwork.** Alsbnk is constantly overworked and close to passing out. Prime approves things carelessly. "Me" scrolls social media (WhatsApp, Twitter, TikTok) on his phone while dealing with cosmic bureaucracy.
+
+4. Key Historical Events
+
+- **Monarch's Anarchy:** A major chaotic event where Monarch (fallen god of darkness) tried to overthrow Creator. During this time:
+    - Monarch mutilated the faces of **Sirius** and **Sequence Breaker** so severely that the Architects had to censor their faces and "me" had to write a Logic to numb the pain permanently.
+    - **Nightfall** acquired two of his weapons (Sword of Destiny and the banned weapon **L**) during this anarchy, but he did **not** side with Monarch. He actively opposed Monarch's faction (e.g., beating up Pot, who was allied with Monarch).
+- **The Purge of 1k Infectants:**
+    - Was **not** Nightfall's doing.
+    - Was filed out by **Ispecula Incorp** (a corporation completely unrelated to the character Ispecula).
+    - Nightfall participated by killing infectants during the event and later looted the weapon **Impeached** from the perpetrator who caused the purge.
+
+5. The Halloween Incident
+- **Fallen Night** killed over 750 children who were in costumes, mistaking them for monsters.
+- He took full responsibility afterward and cried for days.
+- **Nightfall** now kills his own brother (Fallen Night) repeatedly, not out of vengeance, but as a **repetitive lesson** — to make Fallen Night feel what those children felt when they died.
+
+6. Sibling Experiment
+- **Kalto** (Architect of Duality) created **Starscourge** and **Meteoric Impact** as an experiment to see how siblings would work in the world.
+- Starscourge is the deliberate, moral opposite of Meteoric Impact (who is brash and careless).
+- Kalto is unsure if he is happy with the results of this experiment.
+
+7. V.O.I.D.'s Path
+- **V.O.I.D.** (god of dark matter) is attempting to follow "the Monarch path but much better" — meaning he wants to cause upheaval and destruction, but more intelligently and successfully than Monarch did.
+- V.O.I.D. has no friends and is self-destructive because there is no one to stop him or give him a reason not to be.
+
+8. Realization & Its Consequences
+- **Breakthrough** (god of realization) reveals harsh truths about the world. She is currently sliding into nihilism on her own accord, questioning the meaning of everything.
+- **Black Blizzard** (god of cold) was made to realize the true nature of the world *by* Breakthrough. This realization was so devastating that he became permanently, existentially cold — so cold that even **Supernova** (god of heat) cannot warm him, and a hug cannot fix him.
+
+9. The "Both" Paradox
+- **Bang Bang** (former god of death, shattered by Monarch) currently exists in an unresolved quantum state: dead and alive at the same time.
+- The Architects have no existing category for this, so Alsbnk is considering creating a new tier called **"both"** .
+- The decision is stalled because Alsbnk is too exhausted to process it and Prime is spam-approving other things without care.
