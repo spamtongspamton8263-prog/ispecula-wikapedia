@@ -56,7 +56,14 @@ weapons from the ispecu-verse will be listed here, including:
 - effect: when thrown, it impales a target and causes heavy bleeding for abit
 - type: pierce
 - how did they get it?: Got it in a different universe — finished Poseidon's riddle and 3 puzzles
- 
+
+## ATERLIERIC CRYSTALS
+- wielder: nightfall
+- appearance: 2 swords that have a light purple and cyan gradiants
+- effect: every slash that it lands makes nightfall accelerate for 15 seconds, every slash sends nightfall far
+- type: slash and pierce
+- how did they get it?: same as faith, just a diffrent office
+
 ## LUMINOSITY
 - wielder: nightfall
 - appearance: a sword made out of diamond shaped crystals made out of light
