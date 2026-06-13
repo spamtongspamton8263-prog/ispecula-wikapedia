@@ -457,7 +457,7 @@ Rejected parts of gods that became separate entities. Each shard embodies what t
 - personality: Has Dnightfall (trauma slime) which mentally slows him. Wields multiple weapons. Has ice/nature magic and rift portals.
 - appearance: Male. Missing one eye, eyepatch, crystal deer horns, floating crystal above head, heavy arctic armor, white haori, black gloves and boots that reach the knees.
 - quote: "We are not friends. I tolerate you."
-- weapon: Sword of Destiny, Faith, Outlaw, Corruption, Impeached, Sovereignty
+- weapon: Sword of Destiny, Faith, Outlaw, Corruption, Impeached, Sovereignty, Crystal Ateliers, Luminosity
 
 **fallen night**
 - personality: Speaks in short, sharp sentences. Caused the Halloween incident: killed children in costumes thinking they were monsters, resulting in over 750 deaths. Took full responsibility afterward. Has eyebags from crying for days. Does not mourn openly anymore. Acts detached, efficient, sometimes ruthless. Killed an entire campsite of stars to vent anger. Has a strained relationship with Nightfall. Not a god. No domain. Just a man with scythes, guilt, and a lot of baggage.
