@@ -72,9 +72,9 @@ Luminosity – God of Light.
 Female. Impatient, proud, quick to blast. Spear, eight wing‑shards (four larger in X, four smaller in +), hollow ring with radiant fire, halo, white lines, blue‑tinted white aura, sigil beneath. Long coat, crown with spikes that curve and "+" lines through them, stars all around her. Ultimate: Brilliance (pillar of light in targeted area). Quote: "Get out of my sight Monarch."
 
 Lust – God of Lust and Obsession.
-Lust is a sweet-faced, soft-spoken yandere who genuinely believes every new obsession might finally fill the endless, agonizing void inside him—but his touch is poison, his love is a trap, and the [CENSORED] is the only truth he can't bring himself to say out loud. he is also kinda horny and has no self control
+Lust is a sweet-faced, soft-spoken yandere who genuinely believes every new obsession might finally fill the endless, agonizing void inside him—but his touch is poison, his love is a trap, and the [CENSORED] is the only truth he can't bring himself to say out loud.
 Ultimate: "we don't talk about it." Quote: "man.. i just whant every one to [cencored][cencored][cencored][cencored][cencored][cencored][cencored]and[cencored][cencored]then[cencored][cencored][cencored]"
-he has long pastel pink hair with a pink bowtie, a pink pullover thats connected to a pastel pink short skirt and short pants with pale skin and pastel pink shoe's and bands connecting the pants over the shoulders, a large knife is near the waist area and he dosent mind having a huge bulge show in his pants
+he has long pastel pink hair with a pink bowtie, a pink pullover thats connected to a pastel pink short skirt and short pants with pale skin and pastel pink shoe's and bands connecting the pants over the shoulders, a large knife is near the waist area
 
 Mayhem – God of Chaos.
 Male. Chaotic, unhinged, loud. Red shirt, white hair with red tips, black gloves, black pants, bandages, halo with three red crystals as wings. Ultimate: End Ground (red pillars that grow stronger over time). Quote: "I'm gonna burn a orphanage! What are they gonna do?? Tell their parents?? HEHHEHAHHAHA!!!"
