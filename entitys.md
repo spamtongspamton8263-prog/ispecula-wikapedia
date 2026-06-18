@@ -252,6 +252,7 @@ template used here:
 - appearance: Female.
 - quote: "one day we will all die and i might or will be the cause of it."
 - weapon: 開花したスパイスブッシュ
+
 **V.O.I.D., god of dark matter**
 - personality: Out for blood sometimes, doesn't give a shit, completely mute, loudly self destructive. Described by Kalto as "the spider in the corner of the room."
 - appearance: Nonbinary. An uneven, unstable ball with hyper‑realistic human eyes. Monochrome palette. Can summon black dripping tentacles and uses its infinitely regenerative body to make other things.
