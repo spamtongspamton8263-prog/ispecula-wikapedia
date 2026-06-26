@@ -104,23 +104,34 @@ beat him in max 60 hits (by switching weapon types) or else your dead
 * perma death aint real
 * death results in a respawn, teleported somewhere randomly
 
+---
+
 ## EVENTS THAT HAPPEND
 
 * monarchs anarchy: monarch one day just decided to try to overthrow creator to become the highest in power, and during so he:
 1. mutilated the faces of **sirius** and **sequence Breaker** so severely that an architect had to cencor their faces and "me" had to write a Logic to numb the pain permanently.
 2. shatterd **bang bang** into 800k shards
 
-# THE PURGE OF 1K INFECTANTS
+---
+
+## THE PURGE OF 1K INFECTANTS
+
 - even if nightfall was there, he didnt do anything related after getting corruption
 - was filed out by **Ispecula Incorp** (a corporation completely unrelated to Ispecula).
 
+---
+
 ## THE HALLOWEEN INCIDENT
 this is a dangerous topic...
+
+---
 
 ## V.O.I.D's PATH
 
 * **V.O.I.D** is trying to go become the new monarch, but hes planning better since monarch failed that
 - V.O.I.D is self-destructive because there is no one to stop him or give him a reason not to be
+
+---
 
 ## WHY BREAKTROUGH AND BLACK BIZZARD IS LIKE THIS
 - breakthrough reveals harsh truths about the world. she is currently sliding into nihilism on her own accord, questioning the meaning of everything
