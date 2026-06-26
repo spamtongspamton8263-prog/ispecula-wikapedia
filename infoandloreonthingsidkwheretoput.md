@@ -68,7 +68,7 @@ P+Y+C = black / kuro - real erasure (not even gonna explain it)
 mass manipulation:
 got it after fighting pot in exile, uhhh yeah ispecula learned mass mid battle and its a weaker version of pots but it works
 
---
+---
 
 BASE MODE
 
