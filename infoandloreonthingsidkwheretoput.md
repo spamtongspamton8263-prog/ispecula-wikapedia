@@ -136,3 +136,13 @@ this is a dangerous topic...
 ## WHY BREAKTROUGH AND BLACK BIZZARD IS LIKE THIS
 - breakthrough reveals harsh truths about the world. she is currently sliding into nihilism on her own accord, questioning the meaning of everything
 - black blizzard realize the true nature of the world by Breakthrough. the realization was so devastating that he became permanently, existentially cold, so cold that even supernova cannot warm him
+
+---
+
+## I RAN OUT OF NAMES LMAO
+random things that are real come here
+
+HATRED has a 4th side, ORIGIN HATRED.
+this if pure hatred was beyond just anger.
+one quote can explain it.....
+"im sick and tired of YOU and THEIR meddling fools.. to hell with you all! EVERY. SINGLE. ONE. OF. YOU. I WILL TEAR DOWN EVERY WORLD YOU LOVE, SHATTER EVERY HOPE AND DREAM YOU HOLD, AND WHEN YOU ARE NOTHING BUT BLOOD AND ORGANS, I WILL MAKE EVEN EVERYONE SPARKS CRY FOR MERCY!! YOURE AS USELESS AS A SUMMER ANT!TO THE OBLIVION YOU ALL!!!!!"
