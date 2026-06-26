@@ -8,7 +8,7 @@ template used here:
 3. quote
 4. [weapon {if they have one}](/weapons.md)
 
-# ARCHITECTS
+# architects
 
 **creator, architect of the absolute**
 - personality: silent, distant, rarely appears, made the architects, the only being capable of surviving total erasure events.
@@ -23,64 +23,64 @@ template used here:
 - weapon: the impossible dream
 
 **kalto, architect of duality**
-- personality: Observed the balance shift when Mayhem went quiet. Notices when the world feels wrong. Speaks in dualities. Connected to Ziron by a line in the hierarchy.
+- personality: observed the balance shift when mayhem went quiet. notices when the world feels wrong. speaks in dualities. connected to ziron by a line in the hierarchy.
 - appearance: h
-- quote: "i felt the balance of the world shift when Mayhem wasn't doing anything."
+- quote: "i felt the balance of the world shift when mayhem wasn't doing anything."
 - weapon: duality breaker
 
 **ziron, architect of emergence**
 - personality: patient, musical.
 - appearance: h
-- quote: "break the birdcage. And fly free."
+- quote: "break the birdcage. and fly free."
 - weapon: a shotgun and a knife
 
 **jhyron, architect of potential**
-- personality: gentle, patient. quotes bob ross: "No mistakes, just happy little accidents."
+- personality: gentle, patient. quotes bob ross: "no mistakes, just happy little accidents."
 - appearance: h
 - quote: "is work more worth than taking your sanity out alsbnk...?"
 - weapon: scythe of potential
 
-# GODS
+# gods
 
 **apex, god of limits**
 - personality: calm, analytical, speaks of boundaries.
 - appearance: male. h
-- quote: "Your limits haven't been reached Ispecula. you still have alot to know about.."
+- quote: "your limits haven't been reached ispecula. you still have alot to know about.."
 - weapon: limit breaking scythe
 
 **archmage, god of power**
-- personality: Warm, storytelling, loves recounting old events.
+- personality: warm, storytelling, loves recounting old events.
 - appearance: female. white and red coat, crosshair halo, giant scythe.
-- quote: "funny story I remember, we all once were in a void all scattered, 'me' found the podium but everyone grouped up and all foundout what we do and we kinda just exist as gods to rule over worlds 'me' makes for fun and it is fun seeing the critters just doing things and i once laughed when ispecula did a world cutting slash on that poor old training dummy, it made creator kinda chuckle when he saw it."
+- quote: "funny story i remember, we all once were in a void all scattered, 'me' found the podium but everyone grouped up and all foundout what we do and we kinda just exist as gods to rule over worlds 'me' makes for fun and it is fun seeing the critters just doing things and i once laughed when ispecula did a world cutting slash on that poor old training dummy, it made creator kinda chuckle when he saw it."
 - weapon: pure power
 
-**bang bang, god of [SHATTERED]**
-- personality: formerly god of death, stabbed by Monarch; the No Death Logic left them broken into hundreds of fragments, each holding a piece of their original personality. Flickers in and out of existence, speaks only in glitched symbols.
-- appearance: Nonbinary. A shattered entity.
+**bang bang, god of [shattered]**
+- personality: formerly god of death, stabbed by monarch; the no death logic left them broken into hundreds of fragments, each holding a piece of their original personality. flickers in and out of existence, speaks only in glitched symbols.
+- appearance: nonbinary. a shattered entity.
 - quote: "¶¢℅¥\¢∆¢¶€℅€∆©"
 - weapon: 𓁹 ι ʂҽҽ ყσυ.
 
 **black blizzard, god of cold, ice and snowstorms**
 - personality: melacholic, always shivering, soft‑spoken.
-- appearance: Male.
+- appearance: male.
 - quote: "its cold.. so cold..."
 - weapon: no weapon
 
 **breakthrough, god of realization**
 - personality: quiet, poetic, speaks in serif font (italicized).
-- appearance: female. Translucent, with serif text floating around her.
-- quote: "I started with a few / II only less it gets. / III time by time, now empty / IV and there was nothing left"
+- appearance: female. translucent, with serif text floating around her.
+- quote: "i started with a few / ii only less it gets. / iii time by time, now empty / iv and there was nothing left"
 - weapon: no weapon
 
 **chromatic, god of the spectrum**
 - personality: manic, energetic, obsessed with rhythm and color.
-- appearance: male. RGB body, music visualizer, floating crystals.
-- quote: "do you feel it..? THE BEATING... THE BEATING OF THE SPECTRUM UNLEASHING AND MAKING YOU BEAT TO THE RHYTHM!!"
+- appearance: male. rgb body, music visualizer, floating crystals.
+- quote: "do you feel it..? the beating... the beating of the spectrum unleashing and making you beat to the rhythm!!"
 - weapon: sequence breaker
 
 **chrono sentinel, god of time (dormant)**
 - personality: exhausted, rarely awake, speaks slowly when he does.
-- appearance: male. dark blue scarf with light blue stars, clockwork halo spinning clockwise, a smaller cog above his head spinning counter‑clockwise, fancy dark blue clothing similar to Roland's suit.
+- appearance: male. dark blue scarf with light blue stars, clockwork halo spinning clockwise, a smaller cog above his head spinning counter‑clockwise, fancy dark blue clothing similar to roland's suit.
 - quote: "playtime's over."
 - weapon: time warper
 
