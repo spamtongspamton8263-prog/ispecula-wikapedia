@@ -44,4 +44,3 @@ delta: .......... wha-..#
 ### bang and endurance
 
 bang bang: i know youre reading this, and this is coming out later :)
-<img width="1387" height="224" alt="image" src="https://github.com/user-attachments/assets/efd8cea7-a49b-4242-8673-f32339c6abcb" />
