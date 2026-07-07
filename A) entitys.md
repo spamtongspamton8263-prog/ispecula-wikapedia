@@ -57,7 +57,7 @@ template used here:
 **bang bang, god of [shattered]**
 - personality: formerly god of death, stabbed by monarch; the no death logic left them broken into hundreds of fragments, each holding a piece of their original personality. flickers in and out of existence, speaks only in glitched symbols.
 - appearance: nonbinary. a shattered entity.
-- quote: "¶¢℅¥\¢∆¢¶€℅€∆©"
+- quote: "¶¢℅¥\¢∆¢¶€℅€∆©... think im on eleven, but im on a nine. guess you dont really know me"
 - weapon: 𓁹 ι ʂҽҽ ყσυ.
 
 **black blizzard, god of cold, ice and snowstorms**
