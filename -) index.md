@@ -11,3 +11,7 @@ heres a navigation of things ;)
 - [LOCATIONS](/locations.md) [coming soon]
 
 just note im just starting out and this is bare bones rn so more can be expected
+
+
+ A = main stuff
+ B - C = random stuff
