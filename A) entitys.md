@@ -10,6 +10,10 @@ template used here:
 
 # architects
 
+(the architects :D)
+<img width="644" height="859" alt="image" src="https://github.com/user-attachments/assets/c171028d-1f85-4c8f-a1e2-0ee738b3296b" />
+
+
 **creator, architect of the absolute**
 - personality: silent, distant, rarely appears, made the architects, the only being capable of surviving total erasure events.
 - appearance: a black box
@@ -55,10 +59,12 @@ template used here:
 - weapon: pure power
 
 **bang bang, god of [shattered]**
-- personality: formerly god of death, stabbed by monarch; the no death logic left them broken into hundreds of fragments, each holding a piece of their original personality. flickers in and out of existence, speaks only in glitched symbols.
-- appearance: nonbinary. a shattered entity.
+- personality: formerly god of death, stabbed by monarch; the no death logic left them broken into hundreds of fragments, each holding a piece of their original personality
+- appearance: nonbinary. [img below weapon]
 - quote: "¶¢℅¥\¢∆¢¶€℅€∆©... -h-nk i- on e--v-n, b-t i- -- a n--e. gue-- you d---- re--ly k--w m-"
 - weapon: 𓁹 ι ʂҽҽ ყσυ.
+<img width="859" height="859" alt="image" src="https://github.com/user-attachments/assets/cba3c306-824e-45dd-b8b4-cb17ece6f8f3" />
+
 
 **black blizzard, god of cold, ice and snowstorms**
 - personality: melacholic, always shivering, soft‑spoken.
@@ -80,9 +86,11 @@ template used here:
 
 **chrono sentinel, god of time (dormant)**
 - personality: exhausted, rarely awake, speaks slowly when he does.
-- appearance: male. dark blue scarf with light blue stars, clockwork halo spinning clockwise, a smaller cog above his head spinning counter‑clockwise, fancy dark blue clothing similar to roland's suit.
+- appearance: male. dark blue scarf with light blue stars, clockwork halo spinning clockwise, a smaller cog above his head spinning counter‑clockwise, fancy dark blue clothing similar to roland's suit. [img below weapon]
 - quote: "playtime's over."
 - weapon: time warper
+<img width="644" height="859" alt="image" src="https://github.com/user-attachments/assets/b305ddb3-3f18-4771-b9c3-cc65eac1b14c" />
+
 
 **crystallized, god of formation**
 - personality: disappointed, structured, slightly cynical. has a deep connection to roland allowing her to use furioso. friends with prime and sirius. uneasy alliance with mayhem (opposites). best friends with genesis (when awake). has a deal with divinus to interchange powers.
@@ -116,15 +124,19 @@ template used here:
 
 **genesis, god of origin (dormant)**
 - personality: patient, waiting, gives agency to mortals. created by alsbnk to kickstart the void. wakes up sometimes for about an hour, then goes back to sleep. best friends with crystallized.
-- appearance: female. white skin. black knee-high boots, black coat, white trench coat over it. black bandages wrapped around her arms. a black ring floats around her head, with a black-and-white crown resting above it.
+- appearance: female. white skin. black knee-high boots, black coat, white trench coat over it. black bandages wrapped around her arms. a black ring floats around her head, with a black-and-white crown resting above it. [img is below weapon]
 - quote: "i'm defining the beginning and end of the world, the middle is up to you to shape."
 - weapon: no weapon
+<img width="648" height="859" alt="image" src="https://github.com/user-attachments/assets/c8e4ec8e-5c40-4904-804b-e72ecf1b4eef" />
+
 
 **g.o.d., god of divinity**
 - personality: mute, communicates via tail star with a single japanese word at a time. blunt, efficient. erases overpowered beings.
-- appearance: nonbinary. massive yellow entity, blinding face, petals, half‑broken halo, tail with a star.
+- appearance: nonbinary. massive yellow entity, blinding face, petals, half‑broken halo, tail with a star. (img below weapon)
 - quote: "何？？"
-- weapon: absolute radiance: form hammer
+- weapon: absolute radiance: star blade of extermination
+<img width="1145" height="859" alt="image" src="https://github.com/user-attachments/assets/de73e7e5-b110-4648-abe2-eb9fee3eeb56" />
+
 
 **hatred, god of hate**
 - personality: dual personalities: patient vengeance (calm, british accent) and pure evil (screaming). third side, clarity, ejected into origin shard wrathful memory.
@@ -165,9 +177,11 @@ template used here:
 
 **"me", god of creation**
 - personality: overworked, sarcastic, tired of mayhem. writes logics on an info paper. uses windows xp. has a phone. has a shard called "you" (info paper cutter).
-- appearance: male.
+- appearance: male. (img below weapon)
 - quote: "get the hell outta here aizen, what are you even doing here??"
 - weapon: info viewer
+<img width="859" height="859" alt="image" src="https://github.com/user-attachments/assets/fac0fc50-67b1-4e6d-973b-7dfa0a9529cb" />
+
 
 **meteoric impact, god of calamity**
 - personality: brash, careless, doesn't care about collateral damage. older sister of starscourge.
@@ -249,9 +263,11 @@ template used here:
 
 **thermodynamix, god of entropy**
 - personality: slow, fatalist, speaks of endings.
-- appearance: female.
+- appearance: female. (img below weapon)
 - quote: "one day we will all die and i might or will be the cause of it."
 - weapon: 開花したスパイスブッシュ
+<img width="1640" height="720" alt="image" src="https://github.com/user-attachments/assets/541945e3-3469-4601-8dd7-b3a63dfab0b3" />
+
 
 **v.o.i.d., god of dark matter**
 - personality: out for blood sometimes, doesn't give a shit, completely mute, loudly self destructive. described by kalto as "the spider in the corner of the room."
@@ -262,9 +278,10 @@ template used here:
 **sequence breaker, god of sound**
 
 - personality: calm, soft-spoken, used to the weight of hearing everything. loves music. speaks in short, direct sentences. unshaken by chaos.
-- appearance: a minimalist white formal suit with oversized sleeves, angular tailoring, and a bold black chest insignia., long white hair to elbows, face covered by a black box.
+- appearance: a minimalist white formal suit with oversized sleeves, angular tailoring, and a bold black chest insignia., long white hair to elbows, face covered by a black box. (img below weapon)
 - quote: "let the orchestra begin. movement 1: gymnopédie no. 1."
 - weapon: da capo
+<img width="473" height="521" alt="image" src="https://github.com/user-attachments/assets/f86a22e3-b296-47b4-95cc-e332277e8241" />
 
 
 # origin shards
@@ -405,7 +422,8 @@ rejected parts of gods that became separate entities. each shard embodies what t
 
 **red full moon / 赤い満月 (origin of symphony)**
 - personality: rejected erasure. male, red/black.
-- appearance: [crystal form, then r6 roblox model]
+- appearance: <img width="1640" height="720" alt="image" src="https://github.com/user-attachments/assets/58e0677c-25b1-4864-ac3c-99164c15f1df" />
+
 
 **zephyrs (origin of thermodynamix)**
 - personality: rejected sanity.
@@ -455,15 +473,19 @@ rejected parts of gods that became separate entities. each shard embodies what t
 
 **nightfall**
 - personality: has dnightfall (trauma slime) which mentally slows him. wields multiple weapons. has ice/nature magic and rift portals.
-- appearance: male. missing one eye, eyepatch, crystal deer horns, floating crystal above head, heavy arctic armor, white haori, black gloves and boots that reach the knees.
+- appearance: male. missing one eye, eyepatch, crystal deer horns, floating crystal above head, heavy arctic armor, white haori, black gloves and boots that reach the knees. img is one of his outfits
 - quote: "we are not friends. i tolerate you."
 - weapon: sword of destiny, faith, outlaw, corruption, impeached, sovereignty, crystal ateliers, luminosity
+<img width="644" height="859" alt="image" src="https://github.com/user-attachments/assets/3f2ba741-dccf-47c3-a1b9-9a1ccaf05297" />
+
 
 **fallen night**
 - personality: speaks in short, sharp sentences. caused the halloween incident: killed children in costumes thinking they were monsters, resulting in over 750 deaths. took full responsibility afterward. has eyebags from crying for days. does not mourn openly anymore. acts detached, efficient, sometimes ruthless. killed an entire campsite of stars to vent anger. has a strained relationship with nightfall. not a god. no domain. just a man with scythes, guilt, and a lot of baggage.
-- appearance: maybe one day i can draw and explain his drip
+- appearance: maybe one day i can draw and explain his drip, img can only explain it
 - quote: "when you have nothing then solemn, lament and death will come."
 - weapon: scythe of free will,
+<img width="1640" height="720" alt="image" src="https://github.com/user-attachments/assets/9d286e0b-013e-4407-bb14-283effc01ccf" />
+
 
 **the chicken of doom and despair**
 - personality: why did the chicken cross the road?
