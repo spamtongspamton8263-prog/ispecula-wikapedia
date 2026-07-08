@@ -4,7 +4,7 @@ there will be semi-logic in the universe, do not ask how one thing could work
 
 heres a navigation of things ;)
 
-- [WEAPONS](/weapons.md)
+- [WEAPONS](/A) weapons.md)
 - [ENTITYS](/entitys.md)
 - [RANDOM INFO's](/infoonthingsidkwheretoput.md)
 - [ITEMS](/items.md) [coming soon]
