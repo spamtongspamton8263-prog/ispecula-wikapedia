@@ -146,3 +146,16 @@ HATRED has a 4th side, ORIGIN HATRED.
 this if pure hatred was beyond just anger.
 one quote can explain it.....
 "im sick and tired of YOU and THEIR meddling fools.. to hell with you all! EVERY. SINGLE. ONE. OF. YOU. I WILL TEAR DOWN EVERY WORLD YOU LOVE, SHATTER EVERY HOPE AND DREAM YOU HOLD, AND WHEN YOU ARE NOTHING BUT BLOOD AND ORGANS, I WILL MAKE EVEN EVERYONE SPARKS CRY FOR MERCY!! YOURE AS USELESS AS A SUMMER ANT!TO THE OBLIVION YOU ALL!!!!!"
+
+--
+
+in the future..
+if v.o.i.d succeeds, he will get his powers awakend to be able to spawn in minions he calls "apostles" and finally can speak, fly, and get his ultimate upgraded, domain updated and name updated to B.o.i.d
+bro B.o.i.d gains a full body like the others that arent unstable AND gets wings and a clock thingy indicating how many apostles are alive with
+( B.o.i.d = BEING of infinite destruction, instead of VESSEL of infinite destruction)
+hes now called B.o.i.d, the absolute of antimatter
+new ultimate is "didn't i choose you 12, but one of you is called a heretic."
+if the heretic cant confess to either: g.o.d, divinus or creator, boid will make a gigantic aoe explosion that revives apostles and deal mental damage to anyone that isint a apostle nearby
+if they did confess, v.o.i.d takes huge dmg and half of the apostles will die
+[theres 11 apostles and one is a "heretic" (12 combined)]
+apostles can go near the speed of sound and let them also use slime manipulation, each have above god durability
