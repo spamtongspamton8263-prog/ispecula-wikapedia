@@ -513,3 +513,11 @@ the sledge king — maxwell von
 - appearance: a yellow uneven blob with delta's sigil as its face, with 3 triangles as "wings" on both sides and has 4 triangles as legs.
 - quote: "i am about to blooowwww"
 - weapon: no weapon
+
+# OTHERS
+
+- name: PR Ispecula (Post‑Revelation Ispecula)
+- personality: hollow, nihilistic, self‑destructive, and dangerously quiet.
+- appearance: a white ball, weeping with black ichor from a distorted and melted eyepatch
+- quote: "sometimes i just wanna sink in an ocean, curl up and never wake up. Sleeping eternally…"
+- weapon: no weapon
