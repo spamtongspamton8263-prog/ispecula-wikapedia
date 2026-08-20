@@ -57,7 +57,7 @@ needs atleast 15 slashes before being able to use commands like "die"
 - type: magic and normal slash
 - how did they get it?: got it after the purge of 1k infectants — looted it from the guy who caused the event
 
-[nightfall: who ever was usong that mustve been a real dumbass. son 🥹]
+[nightfall: who ever was using that mustve been a real dumbass. son 🥹]
  
 ## sovereignty
 - wielder: nightfall
@@ -84,7 +84,7 @@ needs atleast 15 slashes before being able to use commands like "die"
 - type: blunt and slash
 - how did they get it?: a banned weapon by the architects and "me". got it during monarch's anarchy by finishing a riddle and had to beat up pot to get it, wich is why they blinded pot in the first place
 
-[nightfall: stupidly op..]
+[nightfall: stupidly op.. it burns brighter than naything the actuall luminosity could make.]
 
 ## light pole
 - wielder: excelsia
@@ -110,6 +110,10 @@ needs atleast 15 slashes before being able to use commands like "die"
 
 ## the impossible dream
 - wielder: alsbnk
+- appearance: a gigantic lance made out of originite
+- effect: similiar to sovereign with the added ability to copy a ability from the enemy
+- type: piece / magic pierce
+- how did they get it?: made it themself
 
 ## crystallization
 - wielder: crystallized
