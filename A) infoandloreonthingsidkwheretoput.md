@@ -116,14 +116,15 @@ beat him in max 60 hits (by switching weapon types) or else your dead
 
 ## THE PURGE OF 1K INFECTANTS
 
-- even if nightfall was there, he didnt do anything related after getting corruption
-- was filed out by **Ispecula Incorp** (a corporation completely unrelated to Ispecula).
+* even if nightfall was there, he didnt do anything related after getting corruption
+* was filed out by **Ispecula Incorp** (a corporation completely unrelated to Ispecula).
 
 ---
 
 ## THE HALLOWEEN INCIDENT
 this is a dangerous topic...
-
+(caused by fallen-night)
+* 
 ---
 
 ## V.O.I.D's PATH
