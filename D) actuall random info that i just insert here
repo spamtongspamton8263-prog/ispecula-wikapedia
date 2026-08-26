@@ -1,2 +1,57 @@
 i made a straw page!!
 https://ispecula.straw.page
+
+--
+
+
+tremor - destiny
+- unique tremor
+- when given, set stagger threshold up by 35 (does not stack) every 2 turn.
+- if the enemy staggers with this, cause 'tremor burst - destiny'
+- expires after [count]×2 turns
+- count is for how long its gonna raise it, potency is for how long its gonna stay at that window, if count reaches 0 and potency is still present then the stagger bar stays at that window. when potency expires during count being 0, the stagger window expires back to 0
+
+tremor burst - destiny
+- tremor - destiny exclusive
+- while its on the enemy,  if theres any destiny debuffs (ex: burn - destiny, rupture - destiny), the person whos attacking the staggerd person gets +1 final power for every 3 destiny debuff potency and count (max +5 final power)
+
+burn - destiny
+- unique burn
+- at turn star and turn end, (potency)×2 fixed damage
+- active untill count expires
+
+bleed - destiny
+- unique bleed
+- the next time this unit tosses an attack skill coin, take 15 fixed damage
+- cannot expire untill another desting debuff expires
+- potency increases fixed damage by 2 (max 30)
+
+rupture - destiny
+- unique rupture
+- the next (x) time(s) the unit is hit or hits tails, take 12 fixed damage
+- cannot expire untill a diffrent destiny effect is expired
+- potency increases fixed damage by 1 (max 50 fixed)
+
+poise - destiny
+- unique poise
+- grants a X% chance to crit (10% per count) for 30% more damage. potency -2 on crit or at turn end. (max 200%)
+- expires when count expires
+
+sinking - destiny
+- unique sinking
+- deals ×2 sanity damage equal to count.
+- against sp-less enemies, deals ×2 gloom damage instead
+
+fragments of the universe
+- unique charge
+- max potency/count: 5
+- upon getting max count and potency, give nightfall 1 potency of weaponry
+- cannot expire, resets upon getting max count/potency
+- expires and dissapears after reaching potency 5 weaponry
+
+weaponry
+- cannot change potency untill fragments of the universe reaches max potency/count
+- abilitys change as nightfall changes his weapons
+- check the weapon switching passive for further information
+
+updated the list
