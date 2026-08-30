@@ -1,12 +1,10 @@
-[go back](/index.md)
-
-some of the entitys that exist and are ranked based off rank going from like tier 99 to 1
+some of the entitys that exist and are ranked based off rank going from like level 99 to 1
 
 template used here:
 1. personality
 2. appearance
 3. quote
-4. [weapon {if they have one}](/weapons.md)
+4. [weapon {if they have one}]
 
 # architects
 
@@ -29,7 +27,7 @@ template used here:
 **kalto, architect of duality**
 - personality: observed the balance shift when mayhem went quiet. notices when the world feels wrong. speaks in dualities. connected to ziron by a line in the hierarchy.
 - appearance: h
-- quote: "i felt the balance of the world shift when mayhem wasn't doing anything."
+- quote: "once mayhem didnt do anything after PR ispecula told them something... the balance of the world shifted drastically, and i felt it."
 - weapon: duality breaker
 
 **ziron, architect of emergence**
