@@ -478,7 +478,7 @@ rejected parts of gods that became separate entities. each shard embodies what t
 
 
 **fallen night**
-- personality: speaks in short, sharp sentences. caused the halloween incident: killed children in costumes thinking they were monsters, resulting in over 750 deaths. took full responsibility afterward. has eyebags from crying for days. does not mourn openly anymore. acts detached, efficient, sometimes ruthless. killed an entire campsite of stars to vent anger. has a strained relationship with nightfall. not a god. no domain. just a man with scythes, guilt, and a lot of baggage.
+- personality: speaks in short, sharp sentences. caused the halloween incident. killed an entire campsite of stars to vent anger. has a strained relationship with nightfall.
 - appearance: maybe one day i can draw and explain his drip, img can only explain it
 - quote: "when you have nothing then solemn, lament and death will come."
 - weapon: scythe of free will,
