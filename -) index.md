@@ -7,9 +7,13 @@ just note im just starting out and this is bare bones rn so more can be expected
 
 what ive got to make is:
 items and locations
+
 fixing stuff
+
 adding apperances to 90% of the entitys here
+
 fully doing weapons
+
 fixing inconsistencys
 
 ────────────────────────────────────
