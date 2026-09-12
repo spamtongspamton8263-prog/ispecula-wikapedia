@@ -40,6 +40,20 @@ delta: .......... wha-..#
 
 --
 
+# delta,"me", nightfall and ispecula making the wiki
+
+nightfall: hm.
+ispecula: woah, what is this "github" delta?
+delta: platform to write ourself into the vast internet
+ispecula: :O
+delta: yeah, and "me" over here has been working hard on it
+"me": *waking up after doing a all-nighter working on it* ughhh...
+delta: look who woke up
+nightfall: wakey wakey, its time to rise and shine, glory to ispecula-verse
+ispecula: glory to ispecula-verse!!!
+
+--
+
 ## the past, before monarchs anarchy
 ### bang and endurance
 
