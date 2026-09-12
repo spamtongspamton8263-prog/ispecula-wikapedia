@@ -12,13 +12,13 @@ adding apperances to 90% of the entitys here
 fully doing weapons
 fixing inconsistencys
 
---
+────────────────────────────────────
 
 'delta can you continue writing this, im finished vro you cant just let me continue making this alone' -"me"
 
 `𝚝𝚘𝚘 𝚋𝚊𝚍` -delta
 
---
+───────────────────────────────────
 
  A = main stuff
  B to D = random stuff
