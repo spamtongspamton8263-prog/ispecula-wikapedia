@@ -164,7 +164,7 @@ Male. A Nightfall from an alternate timeline (tyrannical version). Now a Limbo g
 
 • uncatagorized
 Dnightfall – Manifestation of trauma (attached to Nightfall).
-Sentient slime. Clings to Nightfall's legs, mentally slows him. When annoyed, can fight alongside Nightfall (slime manipulation, tentacles, grappling). Quote: "Chaos…"
+Sentient slime. mentally slows him. When annoyed, can fight alongside Nightfall (slime manipulation, tentacles, grappling). Quote: "you…"
 
 --
 
