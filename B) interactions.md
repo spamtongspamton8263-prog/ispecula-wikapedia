@@ -78,5 +78,5 @@ bang bang: no matter how impossible it may be..
 *monarch goes further as the darkness on his ōdachi is going more rampid but the glow of bang bangs sword is also glowing more before bang bang start overpowering monarch aigan*
 bang b۞ng: untill i reach that conclusion.. I SHALL PUSH TILL THEー 
 *monarch overpowers bang bang aigan before she start clashing harder*
-no.. i shall live ever-onward, broken, unrelenting till THE END!!!
+bang bang: no.. i shall live ever-onward, broken, unrelenting till THE END!!!
 *they do one finale clash before monarch imaples bang bang as she shatters and fragments*
