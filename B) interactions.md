@@ -66,10 +66,17 @@ ispecula: glory to ispecula-verse!!!
 ## during monarchs anarchy, the finale clash
 ### bang bang and monarch
 
-*i go flying upwards as monarch flys downwards at incredible speeds before we do a sword point clash. right when that happend alot of fireworks appeared around us as we start clashing for the finale time, i seem to overpower him first before he starts overpowering me, then i started talking aigan and overpowering him aigan*
-no matter how impossible it may be..
-*monarch goes further as the darkness on his ōdachi is going more rampid but the glow of my sword is also glowing more before i start overpowering him aigan*
-untill i reach that conclusion.. I SHALL PUSH TILL THEー 
-*he overpowers me aigan before i start clashing harder*
+monarch: my name... is darkness.
+i, monarch, god of darkness, declare upon my life: this ōdachi shall emd that hollow, juvenile dream!
+*monarch goes high into the air after becoming a black, white outlined star before exploding up and pointing his ōdachi aiganst bang bang preparing to clash with her as darkness goes around the ōdachi*
+
+bang bang:.. my name is death. and i, bang bang, god of death, declare upom my life: this katana shall end that festering treacherous dream.
+*the katana gets a radiating glow as fragmented memories reinforce the katana before she grind the katana on the ground and gets ready to do the finale clash aiganst monarch*
+
+*bang bang goes flying upwards as monarch flys downwards, both going at incredible speeds before they do a sword point clash. right when that happend alot of fireworks appeared around them as they start clashing for the finale time, bang bang seems to overpower monarch first before monarch starts overpowering bang bang, then bang bang started talking aigan and overpowering monarch aigan*
+bang bang: no matter how impossible it may be..
+*monarch goes further as the darkness on his ōdachi is going more rampid but the glow of bang bangs sword is also glowing more before bang bang start overpowering monarch aigan*
+bang b۞ng: untill i reach that conclusion.. I SHALL PUSH TILL THEー 
+*monarch overpowers bang bang aigan before she start clashing harder*
 no.. i shall live ever-onward, broken, unrelenting till THE END!!!
-*we do one finale clash before monarch imaples me as i shatter and fragment once more*
+*they do one finale clash before monarch imaples bang bang as she shatters and fragments*
