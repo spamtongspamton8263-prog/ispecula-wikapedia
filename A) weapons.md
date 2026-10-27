@@ -115,6 +115,14 @@ needs atleast 15 slashes before being able to use commands like "die"
 - type: piece / magic pierce
 - how did they get it?: made it themself
 
+## sequence breaker
+- wielder: chromatic
+- appearance: a ring with stars around it
+- effect: based off the bpm on the current song, chromatic gets stronger the more fazter the song is, letting him make colors similiar to ispeculas space mode but it uses the entire RGB spectrum
+- type: magic pierce
+- how did they get it?: came with them
+[chromatic: its mario, luigi, kevin, giuseppe, sponge, eario, vario, generation 3 smg4, generation 2 smg4 and generation 1 smg4 generation 1 smg 4 is the classic but nintendo forced them do change their character, generation 3 smg3, generation 2 smg3 and generation 1 smg3! smg3 also changed their characterh ethan shoebench golden sigma GRAND DAD!!! WEEGE wega, smg4 mario, rory fire mario ice mario, elephant mariiooooo!! ＭＡＬＴＩＧＩ!!! ＲＳＡＨＨＨＨＨＨＨＨＨＡＡＡ!!!! ＲＡＨＲＨＡＨＲＨＡＨＡＨＡＨＡＨＨＡＢＡＢＡＢＡＰＡＰＢＡＤＡＡＤＡＤＤＡＢＤＢＡＢＤＢＳＡＥＥＥＥＡｙｙｅｓａａＡＡ!!! messi bro, JJJS, dumb mario, uhengy mario SUPER FUCKING MARIO and macrotigi!!! naruigi and naruigi- theyre the same thing but WHOOO CARRESS??? baiso and mamario dr mario and dr luigi finally mario and luigi got a JOOBBB!! BABY MARIO AND BABY LUIGI MR M MR L CAT MARIO AND CAT LUUIGIIIIII!!!]
+
 ## crystallization
 - wielder: crystallized
 
