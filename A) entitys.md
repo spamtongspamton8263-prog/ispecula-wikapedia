@@ -4,7 +4,8 @@ template used here:
 1. personality
 2. appearance
 3. quote
-4. [weapon {if they have one}]
+4. weapon {if they have one}
+5. notes (when i feel like adding them, wich can be anything like powers and trivia wich go with numbers)
 
 # architects
 
